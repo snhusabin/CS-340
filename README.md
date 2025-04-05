@@ -3,7 +3,9 @@ About the project:
 This project is a Python module that provides Create, Read, Update, and Delete (CRUD) functionality for a MongoDB collection used by Grazioso Salvare, an animal rescue organization. The module connects securely to a remote MongoDB instance and manages documents within the animals collection of the AAC database.
  Motivation:
  The goal of this module is to simplify and secure database operations related to animal records. By using Python and MongoDB, Grazioso Salvare's staff and developers can efficiently maintain pet data with reusable methods that integrate easily with dashboards and other tools.
+ 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/f524403b-2257-4734-9e81-1dec74784f7d" />
+
 Getting Started: 
 To run this module locally, ensure you have access to the required MongoDB instance and have pymongo installed in your Python environment.
 
