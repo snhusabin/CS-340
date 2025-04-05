@@ -13,6 +13,9 @@ Clone or download the module to your development environment, then import and in
 from animal_shelter import AnimalShelter
 shelter = AnimalShelter()
 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/3e85840e-90be-45a6-9802-e2a6380e5ea0" />
+
+
  Installation:
 
  MongoDB Driver:
