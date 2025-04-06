@@ -19,6 +19,7 @@ Usage
 Once instantiated, the class has total control of the animal records in MongoDB. All operations are equivalent to a raw database operation.
 
 To add a new animal record, use the create() method and pass in a dictionary containing fields such as name, animal type, breed, and age. If the insertion is successful, the method confirms it by returning True.
+
  <img width="468" alt="image" src="https://github.com/user-attachments/assets/7d204309-4f56-45de-bb3d-bd64d8638bea" />
 
 To retrieve records, the read() method can be called with or without a query. Without arguments, it returns all records. When provided with a query, it returns a filtered list of matching documents based on the specified fields.
@@ -48,7 +49,9 @@ To remove records from the database, the delete() method is used. This method ac
 2. Create a user account in the mongo shell to ensure user authentication to the database and collection you created.
  
  <img width="279" alt="image" src="https://github.com/user-attachments/assets/8a6c1526-6aa2-4d2a-8f0c-8c9aefa1479d" />
+ 
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/1e0eb815-8428-4179-9cc1-7cd1e20eb28e" />
+
 <img width="328" alt="image" src="https://github.com/user-attachments/assets/93c9e1ea-f66a-40c5-bae5-82aeb27665e8" />
 
  
@@ -82,6 +85,8 @@ o	Return -> The number of objects removed from the collection.
  <img width="468" alt="image" src="https://github.com/user-attachments/assets/0b06e31f-4143-4914-86b5-ccbbfcd6dc18" 
 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/eb276c7b-9ea8-46ef-83cb-36953f5bd868" />
+
+  
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/8c122e2b-1aa0-47dd-8ea5-0875705d478c" />
 
 
