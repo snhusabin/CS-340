@@ -5,12 +5,16 @@ About the project
 This Python-based module provides full CRUD (Create, Read, Update, Delete) functionality to manage animal records in a MongoDB database. Designed specifically for Grazioso Salvare, an animal rescue organization, this module allows both developers and staff to interact with shelter data through secure and reusable code. It enables the addition, retrieval, editing, and removal of animal records in a centralized system, laying the foundation for future integration with dashboards or analytical tools.
 
 Motivation
+
+
 The system needed by Grazioso Salvare would not only be user-friendly but efficient in terms of keeping up with its growing list of saved animals. Rather than enter data manually or traditionally, this project was structured in a way to facilitate real-time database use through modern tools like Python and MongoDB. The idea was to simplify task management for employees, eliminate errors, and be able to visualize through a web interface or dashboard in the future.
 
 Getting  Started
+
 Before this module can be used in your local environment, first, Python, along with Mongo, Python's official MongoDB driver, is required. You also require your access credentials for the AAC MongoDB instance. With these in hand, you can download or clone this repository and get started with this module by importing and initializing the class AnimalShelter in your Python project.
 
 Installation
+
 This project's foundation is the use of the Mongo library in interacting with MongoDB. The use of this library was due to its trustworthiness, immense community support, and native Python code compatibility. It also supports front-end tools, such as Dash, so it's a potential candidate for use within dashboards.
 
 Usage
