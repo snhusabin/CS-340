@@ -39,7 +39,9 @@ To remove records from the database, the delete() method is used. This method ac
 
 
 1.Upload the Austin Animal Center Outcomes data set into MongoDB by inserting a CSV file using the appropriate MongoDB import tool.
+
  <img width="308" alt="image" src="https://github.com/user-attachments/assets/f8da585e-df5a-4c47-ad35-67c6adb13ca4" />
+ 
 
  <img width="230" alt="image" src="https://github.com/user-attachments/assets/cd76e8ea-f3e6-4d88-88fd-f090b1bfd9e6" />
 
@@ -86,9 +88,11 @@ o	Return -> The number of objects modified in the collection.
 o	Input -> arguments to function should be the key/value lookup pair to use with the MongoDB driver find API call.
 o	Return -> The number of objects removed from the collection.
 
- <img width="468" alt="image" src="https://github.com/user-attachments/assets/0b06e31f-4143-4914-86b5-ccbbfcd6dc18" 
+ <img width="468" alt="image" src="https://github.com/user-attachments/assets/0b06e31f-4143-4914-86b5-ccbbfcd6dc18" />
+ 
 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/eb276c7b-9ea8-46ef-83cb-36953f5bd868" />
+  
 
   
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/8c122e2b-1aa0-47dd-8ea5-0875705d478c" />
