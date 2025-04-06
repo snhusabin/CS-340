@@ -48,11 +48,15 @@ To remove records from the database, the delete() method is used. This method ac
  
 2. Create a user account in the mongo shell to ensure user authentication to the database and collection you created.
  
- <img width="279" alt="image" src="https://github.com/user-attachments/assets/8a6c1526-6aa2-4d2a-8f0c-8c9aefa1479d" />
+ <img width="468" alt="image" src="https://github.com/user-attachments/assets/8a6c1526-6aa2-4d2a-8f0c-8c9aefa1479d" />
  
-<img width="279" alt="image" src="https://github.com/user-attachments/assets/1e0eb815-8428-4179-9cc1-7cd1e20eb28e" />
+ 
+ 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/1e0eb815-8428-4179-9cc1-7cd1e20eb28e" />
 
-<img width="328" alt="image" src="https://github.com/user-attachments/assets/93c9e1ea-f66a-40c5-bae5-82aeb27665e8" />
+
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/93c9e1ea-f66a-40c5-bae5-82aeb27665e8" />
 
  
 3.
